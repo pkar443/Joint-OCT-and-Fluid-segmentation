@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 19 16:04:12 2020
 
-@author: marti
+
 """
 # Packages
 import numpy as np
