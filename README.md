@@ -1,7 +1,7 @@
 # Joint-OCT-Layers-and-Fluid-segmentation
-Proposed Model
+Proposed hybrid Dual Input Network (DINet)
 
 <img src="For Read.md/Picture1.png">
 
-Hybrid Encoder
+Detailed Architecture of Encoder block of Proposed Architecture
 <img src="For Read.md/Picture2.png">
